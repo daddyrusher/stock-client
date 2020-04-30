@@ -1,0 +1,8 @@
+spring:
+  application:
+    ui:
+      title: Stock Prices
+  main:
+    web-application-type: none
+  profiles:
+    active: sse
